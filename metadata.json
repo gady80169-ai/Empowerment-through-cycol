@@ -1,0 +1,8 @@
+{
+  "name": "Meet Your Partner",
+  "description": "Discover meaningful connections and meet your ideal partner with compatibility matchmaking, values quiz, profile exploration, and interactive chats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
